@@ -3,7 +3,7 @@ pandas==1.4.4
 streamlit==1.14.0
 librosa==0.9.2
 soundfile==0.10.3.post1
-ytdlp==2022.9.1
+ytdlp==2022.08.19
 requests==2.21.0
 pychorus==0.1
 scikit-learn==1.1.2
